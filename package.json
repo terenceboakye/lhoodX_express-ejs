@@ -1,0 +1,19 @@
+{
+  "name": "lhoodx_express",
+  "version": "1.0.0",
+  "description": "A simple node server integrated with express and ejs frameworks",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terenceboakye/lhoodX_wbs-express-ejs-.git"
+  },
+  "author": "Terence Boakye Mensah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terenceboakye/lhoodX_wbs-express-ejs-/issues"
+  },
+  "homepage": "https://github.com/terenceboakye/lhoodX_wbs-express-ejs-#readme"
+}
