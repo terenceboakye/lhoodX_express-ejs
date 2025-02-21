@@ -54,7 +54,7 @@ app.get("/name/:myName", homeController.respondWithName);
 *
 *
 *@date  :   wed, 15th January, 2025
-*              time(11:50:00PM)
+*              time(11:50:00PM).
 */
 app.use(
     express.urlencoded({ 
